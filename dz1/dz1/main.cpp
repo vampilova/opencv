@@ -16,7 +16,7 @@ using namespace std;
 
 int main()
 {
-    Mat image = imread("/Users/erzenavampilova/polevoy_opencv/dz1/dress.jpg");
+    Mat image = imread("/Users/erzenavampilova/opencv/dz1/dress.jpg");
     Mat image2;
     
     if(image.empty())

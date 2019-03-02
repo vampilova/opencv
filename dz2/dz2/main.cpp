@@ -16,7 +16,7 @@ using namespace std;
 
 
 int main(int argc, char** argv){
-   Mat image1 = imread("/Users/erzenavampilova/Desktop/study/polevoy/test3/girl.jpg");
+   Mat image1 = imread("/Users/erzenavampilova/opencv/dz2/girl.jpg");
     
     if (image1.empty()){
         cout<<"No image"<<endl;
