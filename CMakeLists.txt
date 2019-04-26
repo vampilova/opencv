@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(polevoy_d_v)
+project(vampilova_e_b)
 
 # Determine the platform
 # -----------------------------------------------------------------------
